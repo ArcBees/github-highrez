@@ -19,6 +19,7 @@ File inspector
 * File inspector displays a line a the 120 character mark
 * File inspector uses Droid Sans Monospace fonts from GoogleFonts
 
+
 ##How to use
 ==============
 
@@ -27,6 +28,11 @@ File inspector
 3. Inject the [main CSS](https://raw.github.com/albre/github-highrez/master/src/css/github.css) for the [GitHub Main Domain](https://github.com/) and URLs starting with it.
 4. Inject the [revert CSS](https://raw.github.com/albre/github-highrez/master/src/css/githubRevert.css) for the others domain that you don't want to be styled [Plans](https://github.com/plans), [Signup](https://github.com/signup), [New Organization](https://github.com/account/organizations/new).
 4. You are go to go! ... And free to customize it yourself!
+
+##Look and Feel
+==============
+![Before](https://raw.github.com/albre/github-highrez/master/src/img/gitHub-presentation-before.png)
+![After](https://raw.github.com/albre/github-highrez/master/src/img/gitHub-presentation-after.png)
 
 ##Thanks to
 ==============
