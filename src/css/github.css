@@ -9,14 +9,6 @@
     width: 100%;
 }
 
-#files .file .meta .info .css-truncate-target, .file-box .meta .info .css-truncate-target {
-    max-width: 100%;
-}
-
-#files .file.has-inline-notes .diffstat+ .css-truncate-target {
-    max-width: 100;
-}
-
 #graph-shots {
     display: block;
     margin: auto;
@@ -153,7 +145,7 @@
 }
 
 .diff-line, .gi , .gc, .gd {
-    background: url("https://a248.e.akamai.net/assets.github.com/images/modules/marketing/rule.gif?c0000000") 977px 0 repeat-y ;
+    background: url("https://raw.github.com/albre/github-highrez/master/src/img/line.png") 977px 0 repeat-y ;
     font-family: "Droid Sans Mono", "Courier New", monospace;
 }
 
@@ -203,19 +195,19 @@
 }
 
 .highlight tr:hover .diff-line {
-    background-color: rgba(255, 255, 185, 0.7);
+    background-color: rgba(255, 255, 185, 0.7) !important;
 }
 
 .highlight tr:hover .diff-line.gc {
-    background-color: rgba(190, 225, 245, 0.7);
+    background-color: rgba(190, 225, 245, 0.7) !important;
 }
 
 .highlight tr:hover .diff-line.gd {
-    background-color: rgba(255, 165, 165, 0.7);
+    background-color: rgba(255, 165, 165, 0.7) !important;
 }
 
 .highlight tr:hover .diff-line.gi {
-    background-color: rgba(165, 255, 165, 0.7);
+    background-color: rgba(165, 255, 165, 0.7) !important;
 }
 
 .markdown-body {
@@ -260,11 +252,31 @@ span.css-truncate-target {
     max-width: 100%;
 }
 
-span.js-selectable-text.css-truncate.css-truncate-target {
-    max-width: 100%;
-}
 
 #slider .frames .frame{
-  min-width: 920px;
-  width:12%;
+  min-width: 800px;
+  width:10%;
+}
+
+
+span.js-selectable-text.css-truncate.css-truncate-target {
+    max-width: 100% !important;
+}
+
+#files .file .meta .info .css-truncate-target, .file-box .meta .info .css-truncate-target {
+    max-width: 100% !important;
+}
+
+#files .file.has-inline-notes .diffstat+ .css-truncate-target {
+    max-width: 100 !important;
+}
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px){
+ .container {
+    width: 90%;
+  }
+    #slider .frames .frame{
+  		min-width: 800px;
+  		width:8%;
+    }
 }
