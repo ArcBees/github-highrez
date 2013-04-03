@@ -153,7 +153,7 @@
 }
 
 .diff-line, .gi , .gc, .gd {
-    background: url("https://a248.e.akamai.net/assets.github.com/images/modules/marketing/rule.gif?c0000000") 857px 0 repeat-y ;
+    background: url("https://a248.e.akamai.net/assets.github.com/images/modules/marketing/rule.gif?c0000000") 977px 0 repeat-y ;
     font-family: "Droid Sans Mono", "Courier New", monospace;
 }
 
@@ -264,3 +264,7 @@ span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100%;
 }
 
+#slider .frames .frame{
+  min-width: 920px;
+  width:12%;
+}
