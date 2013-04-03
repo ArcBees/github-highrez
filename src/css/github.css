@@ -264,3 +264,7 @@ span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100%;
 }
 
+#slider .frames .frame{
+  min-width: 920px;
+  width:12%;
+}
