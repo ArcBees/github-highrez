@@ -1,0 +1,9 @@
+.column.main {
+    min-width: 440px;
+    width: 440px;
+}
+
+.container {
+    min-width: 920px;
+    width: 920px;
+}
