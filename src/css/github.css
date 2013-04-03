@@ -1,3 +1,266 @@
-body{
-  background-color: red;  
+@font-face {
+  font-family: 'Droid Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans Mono'), local('DroidSansMono'), url(http://themes.googleusercontent.com/static/fonts/droidsansmono/v4/ns-m2xQYezAtqh7ai59hJUYuTAAIFFn5GTWtryCmBQ4.woff) format('woff');
 }
+
+#directory .news {
+    width: 100%;
+}
+
+#files .file .meta .info .css-truncate-target, .file-box .meta .info .css-truncate-target {
+    max-width: 100%;
+}
+
+#files .file.has-inline-notes .diffstat+ .css-truncate-target {
+    max-width: 100;
+}
+
+#graph-shots {
+    display: block;
+    margin: auto;
+    width: 920px;
+}
+
+#languages .container {
+    width: 100%;
+}
+
+#languages .left {
+    width: 44%;
+}
+
+#languages div.left table {
+    width: 192%;
+}
+
+#page-settings .container {
+    width: 100%;
+}
+
+.about #facts li {
+    min-width: 159px;
+    width: 24.5%;
+}
+
+.about .about-content {
+    min-width: 680px;
+    width: 73%;
+}
+
+.about-content .benefits li {
+    min-width: 295px;
+    width: 47.5%;
+}
+
+.about-outer .left-col, .columns.profilecols .first {
+    min-width: 220px;
+    width: 23%;
+}
+
+.activity-tab .news.public_news {
+    width: 100%;
+}
+
+.all_languages {
+    padding-right: 0;
+}
+
+.all_languages .right ul {
+    margin-right: 0;
+}
+
+.all_languages .right ul li {
+    border-right: 1px solid #ddd;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    padding-right: 10px;
+}
+
+.all_languages .right ul li a {
+    display: block;
+    height: 40px;
+    margin-right: -10px;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0;
+}
+
+.all_languages .right ul li a:hover {
+    background: #F0F0F0;
+    text-decoration: none;
+}
+
+.blog-content .blog-post {
+    min-width: 625px;
+}
+
+.blog-post h2 {
+    max-width: 973px;
+}
+
+.blog-post p a img {
+    width: auto;
+}
+
+.bootcamp ul li {
+    width: 23.55%;
+}
+
+.column .main form {
+    width: 50%;
+}
+
+.column.main, .settings-content {
+    min-width: 660px;
+    width: 71%;
+}
+
+.columns.content.content-left {
+    background-position: 75%;
+}
+
+.columns.main, .column.main, .blog-content, .columns.profilecols .last {
+    min-width: 680px;
+    width: 73%;
+}
+
+.columns.profilecols .stats li {
+    min-width: 70px;
+    width: 32%;
+}
+
+.columns.sidebar, .column.sidebar, .blog-aside, #settings-nav {
+    min-width: 220px;
+    width: 23%;
+}
+
+.comment-holder.js-comments-holder {
+    max-width: 100%;
+}
+
+.container {
+    min-width: 920px;
+    width: 70%;
+}
+
+.dashboard-sidebar {
+    min-width: 335px;
+    width: 36%;
+}
+
+.diff-line, .gi , .gc, .gd {
+    background: url("https://a248.e.akamai.net/assets.github.com/images/modules/marketing/rule.gif?c0000000") 857px 0 repeat-y ;
+    font-family: "Droid Sans Mono", "Courier New", monospace;
+}
+
+.discussion-timeline {
+    min-width: 800px;
+    width: 86%;
+}
+
+.explorecols .main, .explorecols .sidebar {
+    min-width: 410px;
+    width: 44%;
+}
+
+.features-theme, .feature-content, .feature-tabs {
+    margin-left: auto;
+    margin-right: auto;
+    width: 958px;
+}
+
+.frames .frame {
+    width: 12%;
+}
+
+.gi .x, .gc .x, .gd .x {
+    background-color: rgba(50, 50, 50, 0.15);
+}
+
+.header .container, #footer .container, .container {
+    min-width: 920px;
+    width: 70%;
+}
+
+.highlight {
+    background-color: rgb(250, 250, 250);
+}
+
+.highlight .gc {
+    background-color: rgba(215, 234, 245, 0.5);
+}
+
+.highlight .gd {
+    background-color: rgba(255, 185, 185, 0.5);
+}
+
+.highlight .gi {
+    background-color: rgba(185, 255, 185, 0.5);
+}
+
+.highlight tr:hover .diff-line {
+    background-color: rgba(255, 255, 185, 0.7);
+}
+
+.highlight tr:hover .diff-line.gc {
+    background-color: rgba(190, 225, 245, 0.7);
+}
+
+.highlight tr:hover .diff-line.gd {
+    background-color: rgba(255, 165, 165, 0.7);
+}
+
+.highlight tr:hover .diff-line.gi {
+    background-color: rgba(165, 255, 165, 0.7);
+}
+
+.markdown-body {
+    overflow: visible;
+}
+
+.menu-container {
+    min-width: 200px;
+    width: 100%;
+}
+
+.news {
+    width: 61%;
+}
+
+.subscriptions-content {
+    min-width: 600px;
+    width: 65%;
+}
+
+.subscriptions-sidebar {
+    min-width: 290px;
+    width: 31%;
+}
+
+.tab-content .contributions-tab .col .capped-box {
+    min-width: 330px;
+    width: 100%;
+}
+
+.teasers .teaser {
+    min-width: 290px;
+    width: 31.5%;
+}
+
+body {
+    background: url('http://i.imgur.com/wtRJW5y.png') no-repeat fixed bottom right;
+    background-size: 12%;
+}
+
+span.css-truncate-target {
+    max-width: 100%;
+}
+
+span.js-selectable-text.css-truncate.css-truncate-target {
+    max-width: 100%;
+}
+
