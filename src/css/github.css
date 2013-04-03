@@ -252,13 +252,6 @@ span.css-truncate-target {
     max-width: 100% !important;
 }
 
-
-#slider .frames .frame{
-  min-width: 800px !important;
-  width:10% !important;
-}
-
-
 span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100% !important;
 }
@@ -271,12 +264,45 @@ span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100 !important;
 }
 
+@media only screen and (max-width: 1750px), only screen and (max-device-width: 1750px){
+    .frames .frame{
+      width:11% !important;
+    }
+}
+    
+@media only screen and (max-width: 1610px), only screen and (max-device-width: 1610px){
+    .frames .frame{
+      width:10% !important;
+    }
+}
+
+
 @media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px){
- .container {
-    width: 90% !important;
-  }
-    #slider .frames .frame{
-  		min-width: 800px !important;
-  		width:8% !important;
+    .container {
+      width: 90% !important;
+  	}
+    .frames .frame{
+      width:12% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1360px), only screen and (max-device-width: 1360px){
+    .frames .frame{
+      width:11% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1240px), only screen and (max-device-width: 1240px){
+    .frames .frame{
+      width:10% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1130px), only screen and (max-device-width: 1130px){
+    .frames .frame{
+      width:9% !important;
     }
 }
