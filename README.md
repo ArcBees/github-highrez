@@ -29,6 +29,10 @@ File inspector
 4. Inject the [revert CSS](https://raw.github.com/albre/github-highrez/master/src/css/githubRevert.css) for the others domain that you don't want to be styled [Plans](https://github.com/plans), [Signup](https://github.com/signup), [New Organization](https://github.com/account/organizations/new).
 4. You are go to go! ... And free to customize it yourself!
 
+##Stylish Configuration
+==============
+![Config](https://raw.github.com/albre/github-highrez/master/src/img/gitHub-presentation-config.png)
+
 ##Look and Feel
 ==============
 ![Before](https://raw.github.com/albre/github-highrez/master/src/img/gitHub-presentation-before.png)
