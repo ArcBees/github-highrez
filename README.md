@@ -22,7 +22,7 @@ File inspector
 ==============
 
 1. Get the [custom style](https://github.com/albre/github-highrez/tree/master/src/css) for an simple style) from this repo!
-2. Install a CSS injector extension (I prefer [CSS injector](https://chrome.google.com/webstore/detail/css-inject/fmiohbdblcemacakpnoinjmcelddpjbg?hl=en) for an simple style)
+2. Install a CSS injector extension (I prefer [StyleBot](https://chrome.google.com/webstore/detail/css-inject/fmiohbdblcemacakpnoinjmcelddpjbg?hl=en) for an simple style)
 3. Inject the CSS for the [GitHub Main Domain](https://github.com/).
 4. You are go to go! ... And free to customize it yourself!
 
