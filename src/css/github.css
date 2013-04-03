@@ -6,192 +6,192 @@
 }
 
 #directory .news {
-    width: 100%;
+    width: 100% !important;
 }
 
 #graph-shots {
-    display: block;
-    margin: auto;
-    width: 920px;
+    display: block !important;
+    margin: auto !important;
+    width: 920px !important;
 }
 
 #languages .container {
-    width: 100%;
+    width: 100% !important;
 }
 
 #languages .left {
-    width: 44%;
+    width: 44% !important;
 }
 
 #languages div.left table {
-    width: 192%;
+    width: 192% !important;
 }
 
 #page-settings .container {
-    width: 100%;
+    width: 100% !important;
 }
 
 .about #facts li {
-    min-width: 159px;
-    width: 24.5%;
+    min-width: 159px !important;
+    width: 24.5% !important;
 }
 
 .about .about-content {
-    min-width: 680px;
-    width: 73%;
+    min-width: 680px !important;
+    width: 73% !important;
 }
 
 .about-content .benefits li {
-    min-width: 295px;
-    width: 47.5%;
+    min-width: 295px !important;
+    width: 47.5% !important;
 }
 
 .about-outer .left-col, .columns.profilecols .first {
-    min-width: 220px;
-    width: 23%;
+    min-width: 220px !important;
+    width: 23% !important;
 }
 
 .activity-tab .news.public_news {
-    width: 100%;
+    width: 100% !important;
 }
 
 .all_languages {
-    padding-right: 0;
+    padding-right: 0 !important;
 }
 
 .all_languages .right ul {
-    margin-right: 0;
+    margin-right: 0 !important;
 }
 
 .all_languages .right ul li {
-    border-right: 1px solid #ddd;
-    height: 40px;
-    line-height: 40px;
-    padding: 0;
-    padding-right: 10px;
+    border-right: 1px solid #ddd !important;
+    height: 40px !important;
+    line-height: 40px !important;
+    padding: 0 !important;
+    padding-right: 10px !important;
 }
 
 .all_languages .right ul li a {
-    display: block;
-    height: 40px;
-    margin-right: -10px;
-    padding-bottom: 0;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 0;
+    display: block !important;
+    height: 40px !important;
+    margin-right: -10px !important;
+    padding-bottom: 0 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 0 !important;
 }
 
 .all_languages .right ul li a:hover {
-    background: #F0F0F0;
-    text-decoration: none;
+    background: #F0F0F0 !important;
+    text-decoration: none !important;
 }
 
 .blog-content .blog-post {
-    min-width: 625px;
+    min-width: 625px !important;
 }
 
 .blog-post h2 {
-    max-width: 973px;
+    max-width: 973px !important;
 }
 
 .blog-post p a img {
-    width: auto;
+    width: auto !important;
 }
 
 .bootcamp ul li {
-    width: 23.55%;
+    width: 23.55% !important;
 }
 
 .column .main form {
-    width: 50%;
+    width: 50% !important;
 }
 
 .column.main, .settings-content {
-    min-width: 660px;
-    width: 71%;
+    min-width: 660px !important;
+    width: 71% !important;
 }
 
 .columns.content.content-left {
-    background-position: 75%;
+    background-position: 75% !important;
 }
 
 .columns.main, .column.main, .blog-content, .columns.profilecols .last {
-    min-width: 680px;
-    width: 73%;
+    min-width: 680px !important;
+    width: 73% !important;
 }
 
 .columns.profilecols .stats li {
-    min-width: 70px;
-    width: 32%;
+    min-width: 70px !important;
+    width: 32% !important;
 }
 
 .columns.sidebar, .column.sidebar, .blog-aside, #settings-nav {
-    min-width: 220px;
-    width: 23%;
+    min-width: 220px !important;
+    width: 23% !important;
 }
 
 .comment-holder.js-comments-holder {
-    max-width: 100%;
+    max-width: 100% !important;
 }
 
 .container {
-    min-width: 920px;
-    width: 70%;
+    min-width: 920px !important;
+    width: 70% !important;
 }
 
 .dashboard-sidebar {
-    min-width: 335px;
-    width: 36%;
+    min-width: 335px !important;
+    width: 36% !important;
 }
 
 .diff-line, .gi , .gc, .gd {
-    background: url("https://raw.github.com/albre/github-highrez/master/src/img/line.png") 977px 0 repeat-y ;
-    font-family: "Droid Sans Mono", "Courier New", monospace;
+    background: url("https://raw.github.com/albre/github-highrez/master/src/img/line.png") 977px 0 repeat-y !important;
+    font-family: "Droid Sans Mono", "Courier New", monospace !important;
 }
 
 .discussion-timeline {
-    min-width: 800px;
-    width: 86%;
+    min-width: 800px !important;
+    width: 86% !important;
 }
 
 .explorecols .main, .explorecols .sidebar {
-    min-width: 410px;
-    width: 44%;
+    min-width: 410px !important;
+    width: 44% !important;
 }
 
 .features-theme, .feature-content, .feature-tabs {
-    margin-left: auto;
-    margin-right: auto;
-    width: 958px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 958px !important;
 }
 
 .frames .frame {
-    width: 12%;
+    width: 12% !important;
 }
 
 .gi .x, .gc .x, .gd .x {
-    background-color: rgba(50, 50, 50, 0.15);
+    background-color: rgba(50, 50, 50, 0.15) !important;
 }
 
 .header .container, #footer .container, .container {
-    min-width: 920px;
-    width: 70%;
+    min-width: 920px !important;
+    width: 70% !important;
 }
 
 .highlight {
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(250, 250, 250) !important;
 }
 
 .highlight .gc {
-    background-color: rgba(215, 234, 245, 0.5);
+    background-color: rgba(215, 234, 245, 0.5) !important;
 }
 
 .highlight .gd {
-    background-color: rgba(255, 185, 185, 0.5);
+    background-color: rgba(255, 185, 185, 0.5) !important;
 }
 
 .highlight .gi {
-    background-color: rgba(185, 255, 185, 0.5);
+    background-color: rgba(185, 255, 185, 0.5) !important;
 }
 
 .highlight tr:hover .diff-line {
@@ -211,53 +211,46 @@
 }
 
 .markdown-body {
-    overflow: visible;
+    overflow: visible !important;
 }
 
 .menu-container {
-    min-width: 200px;
-    width: 100%;
+    min-width: 200px !important;
+    width: 100% !important;
 }
 
 .news {
-    width: 61%;
+    width: 61% !important;
 }
 
 .subscriptions-content {
-    min-width: 600px;
-    width: 65%;
+    min-width: 600px !important;
+    width: 65% !important;
 }
 
 .subscriptions-sidebar {
-    min-width: 290px;
-    width: 31%;
+    min-width: 290px !important;
+    width: 31% !important;
 }
 
 .tab-content .contributions-tab .col .capped-box {
-    min-width: 330px;
-    width: 100%;
+    min-width: 330px !important;
+    width: 100% !important;
 }
 
 .teasers .teaser {
-    min-width: 290px;
-    width: 31.5%;
+    min-width: 290px !important;
+    width: 31.5% !important;
 }
 
 body {
-    background: url('https://raw.github.com/albre/github-highrez/master/src/img/arcbeecourtesy.png') no-repeat fixed bottom right;
-    background-size: 12%;
+    background: url('https://raw.github.com/albre/github-highrez/master/src/img/arcbeecourtesy.png') no-repeat fixed bottom right !important;
+    background-size: 12% !important;
 }
 
 span.css-truncate-target {
-    max-width: 100%;
+    max-width: 100% !important;
 }
-
-
-#slider .frames .frame{
-  min-width: 800px;
-  width:10%;
-}
-
 
 span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100% !important;
@@ -271,12 +264,45 @@ span.js-selectable-text.css-truncate.css-truncate-target {
     max-width: 100 !important;
 }
 
+@media only screen and (max-width: 1750px), only screen and (max-device-width: 1750px){
+    .frames .frame{
+      width:11% !important;
+    }
+}
+    
+@media only screen and (max-width: 1610px), only screen and (max-device-width: 1610px){
+    .frames .frame{
+      width:10% !important;
+    }
+}
+
+
 @media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px){
- .container {
-    width: 90%;
-  }
-    #slider .frames .frame{
-  		min-width: 800px;
-  		width:8%;
+    .container {
+      width: 90% !important;
+  	}
+    .frames .frame{
+      width:12% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1360px), only screen and (max-device-width: 1360px){
+    .frames .frame{
+      width:11% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1240px), only screen and (max-device-width: 1240px){
+    .frames .frame{
+      width:10% !important;
+    }
+}
+       
+    
+@media only screen and (max-width: 1130px), only screen and (max-device-width: 1130px){
+    .frames .frame{
+      width:9% !important;
     }
 }

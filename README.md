@@ -11,12 +11,13 @@ A personal css style to inject &amp; enhanced Github
 ==============
 Main Ui
 * Width scaled to 75% of your screen
+* Width scaled to 90% for screen smaller than 1440px
 * Minimum width stays the original ratio
 
 File inspector
 * File inspector hover effect improved
 * File inspector displays a line a the 120 character mark
-* File inspector uses monospace fonts from GoogleFonts
+* File inspector uses Droid Sans Monospace fonts from GoogleFonts
 
 ##How to use
 ==============
