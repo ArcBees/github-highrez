@@ -1,10 +1,10 @@
 #GitHub-HighRez v0.05
 ==============
 
-A personal css style to inject &amp; enhanced Github
+A personal css style to inject &amp; enhance Github
 
-* Made by larges screen users 
-* For larges screen users 
+* Made by large screen users 
+* For large screen users 
 
 ![Logo](https://raw.github.com/ArcBees/github-highrez/master/src/img/gitHub-presentation-logoSmall.png)
 
@@ -18,7 +18,7 @@ Main Ui
 File inspector
 * File inspector hover effect improved
 * File inspector displays a line a the 120 character mark
-* File inspector uses Droid Sans Monospace fonts from GoogleFonts
+* File inspector uses Droid Sans Monospace font from GoogleFonts
 
 
 ##How to use
@@ -28,7 +28,7 @@ File inspector
 2. Install a CSS injector extension (I prefer [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?utm_source=chrome-ntp-icon) for an complex yet simple styling)
 3. Inject the [main CSS](https://raw.github.com/ArcBees/github-highrez/master/src/css/github.css) for the [GitHub Main Domain](https://github.com/) and URLs starting with it.
 4. Inject the [revert CSS](https://raw.github.com/ArcBees/github-highrez/master/src/css/githubRevert.css) for the others domain that you don't want to be styled [Plans](https://github.com/plans), [Signup](https://github.com/signup), [New Organization](https://github.com/account/organizations/new).
-4. You are go to go! ... And free to customize it yourself!
+4. You are good to go! ... And free to customize it yourself!
 
 
 ##Stylish Config
