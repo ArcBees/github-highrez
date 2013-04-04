@@ -1,4 +1,4 @@
-#GitHub-HighRez
+#GitHub-HighRez v0.05
 ==============
 
 A personal css style to inject &amp; enhanced Github
@@ -33,6 +33,7 @@ File inspector
 
 ##Stylish Config
 ==============
+Make sure to select **URLs starting with** for the main css.
 ![Config](https://raw.github.com/ArcBees/github-highrez/master/src/img/gitHub-presentation-config.png)
 
 ##Look and Feel
