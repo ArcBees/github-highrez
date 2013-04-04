@@ -145,7 +145,7 @@
 }
 
 .diff-line, .gi , .gc, .gd {
-    background: url("https://raw.github.com/albre/github-highrez/master/src/img/line.png") 977px 0 repeat-y !important;
+    background: url("https://raw.github.com/ArcBees/github-highrez/master/src/img/line.png") 977px 0 repeat-y !important;
     font-family: "Droid Sans Mono", "Courier New", monospace !important;
 }
 
@@ -244,7 +244,7 @@
 }
 
 body {
-    background: url('https://raw.github.com/albre/github-highrez/master/src/img/arcbeecourtesy.png') no-repeat fixed bottom right !important;
+    background: url('https://raw.github.com/ArcBees/github-highrez/master/src/img/arcbeecourtesy.png') no-repeat fixed bottom right !important;
     background-size: 12% !important;
 }
 
