@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #GitHub-HighRez v0.05
 ==============
 
@@ -47,3 +48,8 @@ Make sure to select **URLs starting with** for the main css.
 ==============
 
 [![Arcbees.com](http://arcbees-ads.appspot.com/ad.png)](http://arcbees.com)
+=======
+#Warning!
+
+This repo is not supported anymore. It has been moved to an [Arcbees/github-highrez](https://github.com/ArcBees/github-highrez).
+>>>>>>> 395446497f6bd987255ed559cf83b8974e7ddc12
