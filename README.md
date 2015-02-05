@@ -47,5 +47,3 @@ Make sure to select **URLs starting with** for the main css.
 ==============
 
 [![Arcbees.com](http://arcbees-ads.appspot.com/ad.png)](http://arcbees.com)
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/dc03515faa8528b37f78507762465ac7 "githalytics.com")](http://githalytics.com/ArcBees/github-highrez)
